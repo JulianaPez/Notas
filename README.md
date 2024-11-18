@@ -1,2 +1,2 @@
 # Notas
-Notas_curso_taller
+Aqui incluyo toda la información del curso LatinR 
